@@ -1,3 +1,4 @@
+//5.Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
 
 
 let paisA = parseInt(prompt("Digite a população inicial do país A: "));
